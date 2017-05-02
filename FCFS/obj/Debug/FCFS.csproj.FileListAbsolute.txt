@@ -1,0 +1,8 @@
+E:\GIT CODE\FCFS\FCFS\bin\Debug\FCFS.exe
+E:\GIT CODE\FCFS\FCFS\bin\Debug\FCFS.pdb
+E:\GIT CODE\FCFS\FCFS\obj\Debug\FCFS.csprojResolveAssemblyReference.cache
+E:\GIT CODE\FCFS\FCFS\obj\Debug\FCFS.Form1.resources
+E:\GIT CODE\FCFS\FCFS\obj\Debug\FCFS.Properties.Resources.resources
+E:\GIT CODE\FCFS\FCFS\obj\Debug\FCFS.csproj.GenerateResource.Cache
+E:\GIT CODE\FCFS\FCFS\obj\Debug\FCFS.exe
+E:\GIT CODE\FCFS\FCFS\obj\Debug\FCFS.pdb
